@@ -1,0 +1,29 @@
+{
+  "name": "react-isomorphic",
+  "version": "1.0.0",
+  "description": "First project with NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boue/react_isomorphic.git"
+  },
+  "keywords": [
+    "react",
+    "isomorphic"
+  ],
+  "author": "Germain Boue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boue/react_isomorphic/issues"
+  },
+  "homepage": "https://github.com/boue/react_isomorphic#readme",
+  "devDependencies": {
+    "babel-loader": "^6.0.1"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
